@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1450724224 source:d:\alice\desktop\assembler\assembler.cpp
+	"optab.h"
+	<cstdio>
+	<iostream>
+	<cstring>
+	<fstream>
+	<cstdlib>
+	<map>
+	<algorithm>
+
+1450719267 d:\alice\desktop\assembler\optab.h
+	<iostream>
+	<cstring>
+
